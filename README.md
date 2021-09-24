@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 
 ## Open-source libraries used
 
@@ -48,7 +48,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2021] [KevinTran]
+    Copyright 2021] [KT]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
